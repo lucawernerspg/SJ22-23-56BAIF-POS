@@ -1,0 +1,15 @@
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\obj\Debug\net6.0\Spg.valueTypesExercise.App.csproj.AssemblyReference.cache
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\obj\Debug\net6.0\Spg.valueTypesExercise.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\obj\Debug\net6.0\Spg.valueTypesExercise.App.AssemblyInfoInputs.cache
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\obj\Debug\net6.0\Spg.valueTypesExercise.App.AssemblyInfo.cs
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\obj\Debug\net6.0\Spg.valueTypesExercise.App.csproj.CoreCompileInputs.cache
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\bin\Debug\net6.0\Spg.valueTypesExercise.App.exe
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\bin\Debug\net6.0\Spg.valueTypesExercise.App.deps.json
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\bin\Debug\net6.0\Spg.valueTypesExercise.App.runtimeconfig.json
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\bin\Debug\net6.0\Spg.valueTypesExercise.App.dll
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\bin\Debug\net6.0\Spg.valueTypesExercise.App.pdb
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\obj\Debug\net6.0\Spg.valueTypesExercise.App.dll
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\obj\Debug\net6.0\refint\Spg.valueTypesExercise.App.dll
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\obj\Debug\net6.0\Spg.valueTypesExercise.App.pdb
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\obj\Debug\net6.0\Spg.valueTypesExercise.App.genruntimeconfig.cache
+C:\HTL\5BAIF\POS\Spg.valueTypesExercise.App\obj\Debug\net6.0\ref\Spg.valueTypesExercise.App.dll
